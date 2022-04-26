@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @ZamTheman
+- 👀 I’m interested in ...
+Learning new tech :)
+  
+- 🌱 I’m currently learning ...
+REACT and getting deeper into dotnet6
+
+- 📫 How to reach me ...
+Message och github
